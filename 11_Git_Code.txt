@@ -1,0 +1,8 @@
+echo "# 11_SE_GenAI_Sep26" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/nithyakalaiovian/11_SE_GenAI_Sep26.git
+git push -u origin main
+# need to execute this one by one
